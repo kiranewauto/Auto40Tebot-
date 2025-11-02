@@ -1,7 +1,7 @@
 {
   "name": "Auto40Tebot",
   "version": "1.0.0",
-  "type": "module",
+  "main": "index.jx",
   "scripts": {
     "start": "node index.js"
   },
